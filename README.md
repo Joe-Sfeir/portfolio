@@ -10,7 +10,7 @@ Here you will find detailed reports and documentation for my key engineering pro
 
 | Project Name | Technologies Used | Link to Report |
 | :--- | :--- | :--- |
-| **GRAND Decoding Algorithm** | RISC-V Assembly, Verilog | [**View Report (PDF)**](./projects/grand-decoder-report.pdf) |
+| **GRAND Decoding Algorithm** | RISC-V Assembly, Verilog | [**View Report (PDF)**](./projects/321_Project_Reprt_Final.pdf) |
 | *[Future Project Name]* | *[Tech Used]* | *[Link to PDF]* |
 | *[Future Project Name]* | *[Tech Used]* | *[Link to PDF]* |
 
