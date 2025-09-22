@@ -1,26 +1,40 @@
 # Joe Sfeir - Professional Engineering Portfolio
 
-Welcome to my professional portfolio. This repository contains detailed reports for my academic and personal projects, as well as certifications I have earned.
+Welcome to my professional portfolio. This repository is a curated collection of my key projects, certifications, and my most up-to-date resume.
 
 ---
 
-## Projects
+### Quick Navigation
+[View My Resume](#-resume--cv) | [Explore My Projects](#️-projects) | [See My Certifications](#-certifications--professional-development)
 
-Here you will find detailed reports and documentation for my key engineering projects.
+---
 
-| Project Name | Technologies Used | Link to Report |
+## 📄 Resume / CV
+
+This folder contains the most recent version of my professional resume, outlining my experience, skills, and academic achievements.
+
+*   [**View My Resume Folder**](./resume/)
+
+---
+
+## 🛠️ Projects
+
+Here you will find detailed reports, documentation, and code for my key engineering projects. Each project is contained within its own dedicated folder.
+
+| Project Name | Key Technologies | Link to Folder |
 | :--- | :--- | :--- |
-| **GRAND Decoding Algorithm** | RISC-V Assembly, Verilog | [**View Report (PDF)**](./projects/grand_decoder/321_Project_Report_Final.pdf) |
-| *[Future Project Name]* | *[Tech Used]* | *[Link to PDF]* |
-| *[Future Project Name]* | *[Tech Used]* | *[Link to PDF]* |
+| **GRAND Decoding Algorithm** | RISC-V Assembly, Verilog | [**Explore Project & Code**](./projects/grand_decoder/) |
+| **Aero Propeller Dynamics** | `[e.g., MATLAB, Simulink]` | [**Explore Project**](./projects/aero_propeller/) |
+| *[Future Project Name]* | *[Tech Used]* | *[Link]* |
+
 
 ---
 
-## Certifications
+## 📜 Certifications & Professional Development
 
-A collection of certifications I have completed to enhance my professional skills.
+I am committed to continuous learning. This folder contains all my formal certifications and records of professional development courses.
 
-### KNX Basic Certification (ETS6)
-* **Issuing Organization:** KNX eCampus
-* **Date:** Fall 2025
-* **Link:** [**View Certificate (PDF)**](./certificates/knx-basic-certificate.pdf)
+*   [**View All Certifications**](./certificates/)
+
+---
+*This portfolio is a living document and will be updated as I complete new projects and acquire new skills.*
