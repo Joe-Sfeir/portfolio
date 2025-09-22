@@ -24,8 +24,3 @@ A collection of certifications I have completed to enhance my professional skill
 * **Issuing Organization:** KNX eCampus
 * **Date:** Fall 2025
 * **Link:** [**View Certificate (PDF)**](./certificates/knx-basic-certificate.pdf)
-
-![KNX Basic Certificate](./certificates/knx-basic-certificate.png)
-
----
-*Feel free to explore the repository folders for more details.*
