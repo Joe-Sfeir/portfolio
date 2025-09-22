@@ -10,7 +10,7 @@ This section highlights hands-on skills I have formally developed in key areas o
 
 ### Introduction to ROS 2 (Jazzy)
 *   **Issuing Organization:** Udemy (Instructor: Edouard)
-*   **Date Completed:** [Enter Month and Year, e.g., August 2025]
+*   **Date Completed:** [August 2025]
 *   **Relevance:** Demonstrates foundational knowledge of the Robot Operating System (ROS 2), the industry standard for robotics and autonomous systems. Covers key concepts like nodes, topics, services, and the `colcon` build system.
 *   **Link:** [**View Certificate (PDF)**](./ROS2_Intro_Certificate.pdf)
 
