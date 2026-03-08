@@ -8,4 +8,4 @@ The document provides a comprehensive overview of my education, experience, skil
 
 ### 📄 Download the Latest Version
 
-*   [**JoeSfeir_Resume_ECE.pdf**](./CV.pdf)
+*   [**JoeSfeir_Resume_ECE.pdf**](./Joe_Sfeir_CV.pdf)
