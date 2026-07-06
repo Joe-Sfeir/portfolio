@@ -1,6 +1,7 @@
 # Joe Sfeir - Engineering Portfolio
+I’m Joe Sfeir, an Electrical and Computer Engineering student focused on control systems, power systems, electronics, and industrial automation. 
 
-This repository presents selected engineering projects, internship work, certifications, and my current CV.
+This repository is a curated portfolio of my academic and internship projects, certifications, and resume, built to showcase my growth, capabilities, and readiness for real-world engineering roles.
 
 ## Resume
 
