@@ -1,40 +1,22 @@
-# Joe Sfeir - Professional Engineering Portfolio
+# Joe Sfeir - Engineering Portfolio
 
-Welcome to my professional portfolio. This repository is a curated collection of my key projects, certifications, and my most up-to-date resume.
+This repository presents selected engineering projects, internship work, certifications, and my current CV.
 
----
+## Resume
 
-### Quick Navigation
-[View My Resume](#-resume--cv) | [Explore My Projects](#️-projects) | [See My Certifications](#-certifications--professional-development)
+- [Resume / CV](./resume/)
 
----
+## Featured Projects
 
-## 📄 Resume / CV
+| Project | Focus | Technologies | Folder |
+| :--- | :--- | :--- | :--- |
+| GRAND Decoding Algorithm (EECE 321) | Assembly implementation of GRAND decoder phases | RISC-V Assembly | [projects/grand_decoder](./projects/grand_decoder/) |
+| Aero Pendulum Control (EECE 460) | Modeling, identification, and controller design for 1-DOF aeropendulum | MATLAB/Simulink, Control Systems | [projects/aero_pendulum_control_eece460](./projects/aero_pendulum_control_eece460/) |
+| Eaton Dubai Internship (2025) | High-level internship deliverables and documented outcomes | Industrial Automation, Documentation | [projects/internship_eaton_dubai_2025](./projects/internship_eaton_dubai_2025/) |
+| Power Systems Protection (EECE 476) | Semester project on power-system analysis and protection topics | Power Systems Analysis | [projects/power_systems_protection_eece476](./projects/power_systems_protection_eece476/) |
+| Power Electronics (EECE 473) | Converter assignment and simulation utility | Python, Power Electronics | [projects/power_electronics_eece473](./projects/power_electronics_eece473/) |
+| VLSI Design (EECE 412) | CMOS/VLSI design project report | VLSI Design, LTspice/HSPICE | [projects/vlsi_design_eece412](./projects/vlsi_design_eece412/) |
 
-This folder contains the most recent version of my professional resume, outlining my experience, skills, and academic achievements.
+## Certifications
 
-*   [**View My Resume Folder**](./resume/)
-
----
-
-## 🛠️ Projects
-
-Here you will find detailed reports, documentation, and code for my key engineering projects. Each project is contained within its own dedicated folder.
-
-| Project Name | Key Technologies | Link to Folder |
-| :--- | :--- | :--- |
-| **GRAND Decoding Algorithm** | RISC-V Assembly, Verilog | [**Explore Project & Code**](./projects/grand_decoder/) |
-| **Aero Propeller Dynamics** | `[e.g., MATLAB, Simulink]` | [**Explore Project**](./projects/aero_propeller/) |
-| *[Future Project Name]* | *[Tech Used]* | *[Link]* |
-
-
----
-
-## 📜 Certifications & Professional Development
-
-I am committed to continuous learning. This folder contains all my formal certifications and records of professional development courses.
-
-*   [**View All Certifications**](./certificates/)
-
----
-*This portfolio is a living document and will be updated as I complete new projects and acquire new skills.*
+- [Certifications and professional development](./certificates/)

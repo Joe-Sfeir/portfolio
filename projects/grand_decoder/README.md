@@ -1,9 +1,15 @@
-# GRAND Decoding Algorithm - Project Summary
+# GRAND Decoding Algorithm (EECE 321)
 
-This project presents the design, implementation, and optimisation of a Guessing Random
-Additive Noise Decoding (GRAND) algorithm written entirely in RISC-V assembly.
-Starting from a simple linear decoder, we introduced a five-stage pipeline and finally a 
-soft-decoding mechanism driven by a confidence vector. Performance (clock cycles) and accuracy
-were measured at each iteration.
+Implementation of a GRAND decoding workflow in RISC-V assembly with phased development.
 
-The full project report can be found in this folder.
+## Contents
+
+- `321_Project_Report_Final.pdf`: full project report and results.
+- `Phase1.s`: baseline implementation.
+- `Phase2.s`: intermediate optimization phase.
+- `Phase3.s`: final implementation phase.
+
+## Highlights
+
+- Structured implementation across multiple development phases.
+- Focus on performance and decoding accuracy trade-offs.
