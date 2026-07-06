@@ -19,3 +19,9 @@ This repository is a curated portfolio of my academic and internship projects, c
 ## Certifications
 
 - [Certifications and professional development](./certificates/)
+
+## Contact
+
+📍 Beirut, Lebanon  
+📧 joesfeir007@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/Joe-Sfeir) · [GitHub](https://github.com/Joe-Sfeir) · +961 76 300 011
