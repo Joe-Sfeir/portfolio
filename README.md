@@ -1,5 +1,5 @@
 # Joe Sfeir - Engineering Portfolio
-I’m Joe Sfeir, an Electrical and Computer Engineering student focused on control systems, power systems, electronics, and industrial automation. 
+I’m Joe Sfeir, an Electrical and Computer Engineering student focused on control systems, power systems, electronics, and industrial automation.
 
 This repository is a curated portfolio of my academic and internship projects, certifications, and resume, built to showcase my growth, capabilities, and readiness for real-world engineering roles.
 
@@ -11,12 +11,10 @@ This repository is a curated portfolio of my academic and internship projects, c
 
 | Project | Focus | Technologies | Folder |
 | :--- | :--- | :--- | :--- |
-| VLSI Design (EECE 412) | CMOS/VLSI design project report | VLSI Design, LTspice/HSPICE | [projects/vlsi_design_eece412](./projects/vlsi_design_eece412/) |
-| Power Electronics (EECE 473) | Converter assignment and simulation utility | Python, Power Electronics | [projects/power_electronics_eece473](./projects/power_electronics_eece473/) |
-| Building Management Systems (EECE 475) | World Bank project deliverable focused on building management systems design and documentation | Building Management Systems, Electrical Systems | [projects/building_management_systems_eece475](./projects/building_management_systems_eece475/) |
 | Eaton Dubai Internship (2025) | High-level internship deliverables and documented outcomes | Industrial Automation, Documentation | [projects/internship_eaton_dubai_2025](./projects/internship_eaton_dubai_2025/) |
 | Aero Pendulum Control (EECE 460) | Modeling, identification, and controller design for 1-DOF aeropendulum | MATLAB/Simulink, Control Systems | [projects/aero_pendulum_control_eece460](./projects/aero_pendulum_control_eece460/) |
-| GRAND Decoding Algorithm (EECE 321) | Assembly implementation of GRAND decoder phases | RISC-V Assembly | [projects/grand_decoder](./projects/grand_decoder/) |
+
+[**View All Projects**](./projects/)
 
 ## Certifications
 
